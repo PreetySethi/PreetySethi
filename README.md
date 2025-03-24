@@ -79,12 +79,6 @@ I'm a **Senior Software Developer** with expertise in **Java, Cloud, and Full St
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/preetysethi)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PreetySethi)  
-
----
-
 ## 🎯 Activities & Interests  
 📚 Learning New Technologies  
 🎮 Gaming | 🎵 Music | 🏀 Basketball  
