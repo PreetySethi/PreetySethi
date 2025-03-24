@@ -79,7 +79,8 @@ I'm a **Senior Software Developer** with expertise in **Java, Cloud, and Full St
 
 ---
 
-## 🎯 Activities & Interests  
+## 🎯 Activities & Interests
+✨ Software Development Best Practices
 📚 Learning New Technologies  
 🎮 Gaming | 🎵 Music | 🏀 Basketball  
 
