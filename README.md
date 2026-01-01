@@ -27,7 +27,8 @@ I'm a **Senior Software Developer** with expertise in **Java, Cloud, and Full St
 - 🎯 Focused on advancing my career as a **Senior Software Developer**  
 - 📚 Learning **Oracle Certified Professional (OCP) Java SE 11**  
 - ☁️ Building expertise in **Java, Cloud Technologies, and Cloud-Native Applications**  
-- 💡 Interested in **Software Development Best Practices, Agile Methodologies, and Continuous Integration/Continuous Deployment (CI/CD)**  
+- 💡 Interested in **Software Development Best Practices, Agile Methodologies, and Continuous Integration/Continuous Deployment (CI/CD)**
+- 🛡️ Developing growing expertise in Cybersecurity fundamentals, including secure coding practices, threat modeling, vulnerability assessment, and cloud security principles**
 
 ---
 
