@@ -45,9 +45,5 @@ I'm a **Senior Software Developer** with expertise in **Java, Cloud, and Full St
 📚 Learning New Technologies  
 🎮 Gaming | 🎵 Music | 🏀 Basketball  
 
----
-
-## 🔥 Fun Fact  
-_"There is no cloud, it's just someone else's computer."_ 😂  
 
 
